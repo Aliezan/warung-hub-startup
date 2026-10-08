@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# Wrangler cache and local secrets
+.wrangler/
+.dev.vars*
+.env*
+
+*.log
+.DS_Store
+Thumbs.db
